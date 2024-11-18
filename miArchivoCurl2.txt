@@ -1,1 +1,1 @@
-my new file contents
+Este es el nuevo contenido del archivo
